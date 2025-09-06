@@ -22,25 +22,6 @@ O projeto segue o padrão **MVC (Model-View-Controller)**:
 
 ---
 
-## 📂 Estrutura de Pastas
-```
-/docs
-   ├── casos_de_uso.md
-   ├── diagrama_classes.png
-   ├── der.png
-   ├── dicionario_dados.xlsx
-   └── prototipos/
-       ├── tela_catalogo.png
-       ├── tela_carrinho.png
-       └── tela_checkout.png
-/frontend
-/backend
-/tests
-/README.md
-```
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 - **Frontend:** React Native (Expo)  
 - **Backend:** Node.js + Express  
