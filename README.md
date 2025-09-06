@@ -62,6 +62,6 @@ O projeto segue o padrão **MVC (Model-View-Controller)**:
 
 ---
 
-## 👥 Equipe
-- **Aluno:** João Paulo da Silva Freitas  
-- **RGM:** 42246342  
+## 👥 Aluno
+- João Paulo da Silva Freitas  
+- 42246342  
