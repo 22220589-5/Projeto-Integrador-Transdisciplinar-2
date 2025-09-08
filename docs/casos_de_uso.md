@@ -28,6 +28,7 @@
 ---
 
 ## 📊 Diagrama de Casos de Uso (Exemplo)
-![Diagrama de Casos de Uso](casos_de_uso.png)
+<img width="1216" height="835" alt="casos_de_uso" src="https://github.com/user-attachments/assets/2fbd4ed2-48e5-4700-be0d-22e616de5efc" />
+
 
 ---
