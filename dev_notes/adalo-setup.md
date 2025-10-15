@@ -61,7 +61,7 @@ Relação:
 ---
 
 ## 👤 Conta Administrador de Teste
-- **E-mail:** admin@cupcakesgourmet.com  
+- **E-mail:** joao.freitasb3@gmail.com  
 *(A senha é configurada dentro do Adalo, não deve ser incluída no repositório.)*
 
 ---
