@@ -1,8 +1,9 @@
 # Cupcakes Gourmet App
 
 ## 📌 Visão Geral
-Aplicativo mobile para uma loja de cupcakes gourmet, desenvolvido como parte do Projeto Integrador Transdisciplinar II.  
-O objetivo é oferecer um sistema simples, funcional e eficiente para vendas online, garantindo melhor experiência ao cliente.
+Aplicativo mobile desenvolvido no modo Low-Code utilizando a plataforma Adalo, como parte do Projeto Integrador Transdisciplinar II.
+O sistema representa uma loja de cupcakes gourmet, permitindo visualizar produtos, adicionar ao carrinho, finalizar pedidos e acompanhar o status de entrega.
+O foco do projeto é demonstrar o ciclo completo de desenvolvimento de software com base em documentação, modelagem de dados, prototipação e entrega funcional.
 
 ---
 
@@ -10,17 +11,29 @@ O objetivo é oferecer um sistema simples, funcional e eficiente para vendas onl
 - Disponibilizar catálogo de cupcakes gourmet.  
 - Permitir adicionar itens ao carrinho e finalizar pedidos.  
 - Oferecer opções de pagamento e rastreamento de pedidos.  
-- Melhorar a imagem da loja através de um app estável e usável.  
+- Melhorar a imagem da loja através de um app estável e intuitivo.  
 
 ---
 
-## 🛠️ Arquitetura
-O projeto segue o padrão **MVC (Model-View-Controller)**:  
-- **Model** → Representação dos dados (Usuário, Produto, Pedido, ItemDoPedido, Pagamento).  
-- **View** → Interface mobile (React Native).  
-- **Controller** → Regras de negócio e controle de fluxo (Node.js + Express).  
+## 🛠️ Arquitetura e Abordagem
+Este projeto foi implementado com ferramentas Low-Code, eliminando a necessidade de codificação manual extensa.
+A estrutura segue a lógica do padrão MVC (conceitualmente), mas com componentes visuais configurados no Adalo:
+- Model (Dados) → Collections do Adalo: Users, Products, Orders, OrderItems e Payments.
+- View (Interface) → Telas construídas via drag-and-drop no editor visual do Adalo.
+- Controller (Fluxos e Regras) → Ações automáticas do Adalo configuradas com condições e relacionamentos entre collections.
 
 ---
+
+## ⚙️ Tecnologias Utilizadas
+- Plataforma: Adalo
+- Banco de Dados: Collections internas do Adalo
+- Hospedagem: Própria da plataforma
+- Prototipação: Figma e Draw.io (modelos visuais complementares)
+- Controle de Versão: Git + GitHub
+
+## 🌐 Link da Solução em Funcionamento
+https://joao-paulos-team-46.adalo.com/cupcakes-gourmet-app
+(Abra no navegador ou no celular para visualizar a versão mobile do aplicativo.)
 
 ## 📂 Estrutura de Pastas
 ```
@@ -31,53 +44,20 @@ O projeto segue o padrão **MVC (Model-View-Controller)**:
    ├── dicionario_dados.xlsx
    └── prototipos/
        ├── tela_catalogo.png
-       ├── tela_carrinho.png
-       └── tela_checkout.png
-/frontend
-/backend
-/tests
+       ├── tela_carrinho_de_compras.png
+       ├── tela_login.png
+       ├── tela_rastreamento.png
+       └── tela_administracao_de_produtos.png
 /README.md
 ```
-
----
-
-## ⚙️ Tecnologias Utilizadas
-- **Frontend:** React Native (Expo)  
-- **Backend:** Node.js + Express  
-- **Banco de Dados:** PostgreSQL  
-- **Controle de Versão:** Git + GitHub  
-- **Ferramentas de Design:** Figma, Draw.io  
-
----
-
-## 🚀 Como Rodar
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/SEU-USUARIO/cupcakes-app.git
-   cd cupcakes-app
-   ```
-
-2. Instale as dependências do backend:  
-   ```bash
-   cd backend
-   npm install
-   npm run dev
-   ```
-
-3. Instale as dependências do frontend:  
-   ```bash
-   cd frontend
-   npm install
-   npm start
-   ```
-
 ---
 
 ## ✅ Critérios de Aceite
 - O cliente pode navegar no catálogo e ver os cupcakes disponíveis.  
 - É possível adicionar/remover itens do carrinho.  
-- Pagamentos são simulados e registrados no banco.  
-- O status do pedido pode ser acompanhado em tempo real.  
+- O sistema registra o status do pedido.
+- O administrador pode cadastrar, editar ou remover produtos.
+- A aplicação está hospedada e acessível via link público.
 
 ---
 
