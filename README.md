@@ -33,7 +33,9 @@ A estrutura segue a lógica do padrão MVC (conceitualmente), mas com componente
 
 ## 🌐 Link da Solução em Funcionamento
 https://joao-paulos-team-46.adalo.com/cupcakes-gourmet-app
+
 (Abra no navegador ou no celular para visualizar a versão mobile do aplicativo.)
+
 
 ## 📂 Estrutura de Pastas
 ```
