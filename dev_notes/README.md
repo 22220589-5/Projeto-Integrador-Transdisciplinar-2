@@ -50,7 +50,9 @@ https://joao-paulos-team-46.adalo.com/cupcakes-gourmet-app
        ├── tela_login.png
        ├── tela_rastreamento.png
        └── tela_administracao_de_produtos.png
-/README.md
+/dev_notes
+   ├── README.md
+   └── adalo-setup.md
 ```
 ---
 
