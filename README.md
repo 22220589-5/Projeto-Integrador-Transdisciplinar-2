@@ -42,7 +42,6 @@ https://projeto-cup-cakes-vm5kuf.flutterflow.app/
 /docs
    ├── casos_de_uso.md
    ├── diagrama_classes.png
-   ├── der.png
    ├── dicionario_dados.xlsx
    └── prototipos/
        ├── tela_catalogo.png
