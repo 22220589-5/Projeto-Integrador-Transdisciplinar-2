@@ -1,10 +1,10 @@
 # Diagrama e Descrição de Casos de Uso
 
-## 📌 Atores
+## Atores
 - **Cliente:** Usuário final do app que compra os cupcakes.  
 - **Administrador:** Dono da loja que gerencia catálogo e pedidos.  
 
-## 🎯 Casos de Uso Principais
+## Casos de Uso Principais
 1. **UC01 - Consultar Catálogo**  
    - Ator: Cliente  
    - Descrição: O cliente visualiza a lista de cupcakes disponíveis.  
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Diagrama de Casos de Uso (Exemplo)
+## Diagrama de Casos de Uso (Exemplo)
 <img width="1216" height="835" alt="casos_de_uso" src="https://github.com/user-attachments/assets/2fbd4ed2-48e5-4700-be0d-22e616de5efc" />
 
 
