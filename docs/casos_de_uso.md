@@ -15,7 +15,7 @@
 
 3. **UC03 - Finalizar Pedido**  
    - Ator: Cliente  
-   - Descrição: O cliente confirma o carrinho, insere dados de pagamento e finaliza a compra.  
+   - Descrição: O cliente confirma o carrinho e finaliza a compra.  
 
 4. **UC04 - Rastrear Pedido**  
    - Ator: Cliente  
