@@ -48,7 +48,17 @@ https://projeto-cup-cakes-vm5kuf.flutterflow.app/
        ├── tela_carrinho_de_compras.png
        ├── tela_login.png
        ├── tela_rastreamento.png
-       └── tela_administracao_de_produtos.png
+       ├── tela_administracao_de_produtos.png
+       └── CupCakes/
+         ├── baunilha.png
+         ├── cereja.png
+         ├── chocolate.png
+         ├── doce-de-leite.png
+         ├── maracuja.png
+         ├── morango.png
+         ├── ninho.png
+         ├── nutella.png
+         └── redvelvet.png
 /README.md
 ```
 ---
