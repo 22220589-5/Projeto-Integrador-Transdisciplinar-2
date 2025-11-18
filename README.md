@@ -72,6 +72,5 @@ https://projeto-cup-cakes-vm5kuf.flutterflow.app/
 
 ---
 
-## 👥 Equipe
 - **Aluno:** João Paulo da Silva Freitas  
 - **RGM:** 42246342  
